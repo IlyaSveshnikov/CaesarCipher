@@ -1,0 +1,22 @@
+{
+  "name": "CaesarCipher",
+  "version": "1.0.0",
+  "description": "Encryption and decryption application using Caesar cipher.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Mr. X",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.2.1",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.desktop_app.caesar_cipher",
+    "mac": {
+      "category": "Work",
+      "icon": "icon.icns"
+    }
+  }
+}

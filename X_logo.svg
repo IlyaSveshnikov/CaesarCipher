@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="0 0 340.2 340.2" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 -448.359 -36.793)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="476.168" x2="760.749" y1="206.893" y2="206.893">
+<stop offset="0" stop-color="#dddddd"/>
+<stop offset="1" stop-color="#606060"/>
+</linearGradient>
+</defs>
+<g id="Layer-1" vectornator:layerName="Layer 1">
+<path d="M71.183 28.5894C169.779 127.238 169.779 127.238 169.779 127.238L269.119 28.8248L311.403 27.9704L311.766 70.423L213.307 170.106L312.391 269.916L311.17 312.23L269.174 312.105L170.206 212.279L71.1917 310.922L28.6926 311.913L27.8091 270.422L127.617 169.705L28.3003 71.2571L28.7013 28.912L71.183 28.5894Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="#ffaa00" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="0" stroke-width="4" vectornator:layerName="Curve 1"/>
+</g>
+</svg>
